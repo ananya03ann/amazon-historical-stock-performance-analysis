@@ -39,6 +39,20 @@ The dataset includes:
 
 ---
 
+## 🏗️ Project Architecture
+
+![Architecture](assets/architecture_diagram.png)
+
+The solution follows a Medallion Architecture (Bronze, Silver, Gold) implemented in Databricks:
+
+- Bronze Layer: Raw data ingestion
+- Silver Layer: Data cleaning and transformation
+- Gold Layer: Business-ready aggregated datasets
+- SQL Warehouse: Analytics serving layer
+- Power BI: KPI reporting and interactive dashboards
+
+---
+
 ## 🛠️ Tools & Technologies
 
 - Power BI
@@ -119,7 +133,7 @@ DIVIDE(
 
 ### Amazon Historical Stock Performance Dashboard
 
-![Dashboard Preview](dashboard_screenshot.png)
+![Dashboard](assets/dashboard_preview.png)
 
 ---
 
