@@ -170,7 +170,7 @@ DIVIDE(
 
 Aspiring Data Analyst
 
-📧 ananya03ann@gmail.com
+📧ananyas.official.in@gmail.com
 
 🔗 LinkedIn: https://www.linkedin.com/in/ananyas03
 
